@@ -52,7 +52,7 @@ Então, a API irá validar se a senha cumpre todos os requisitos e então devolv
 	    ]
     }
 
-#### 🔑 Requisitos de senha
+### 🔑 Requisitos de senha
 
 O módulo validador de senhas prevê 9 requisitos que a senha deverá cumprir, sendo eles:
 
@@ -66,7 +66,7 @@ O módulo validador de senhas prevê 9 requisitos que a senha deverá cumprir, s
     Critério 8: O primeiro caractere da senha deve ser um número.
     Critério 9: O último caractere da senha deve ser uma letra.
     
-#### ❔ Como desenvolver?
+### ❔ Como desenvolver?
 
 Para desenvolver a avaliação, você deverá implementar apenas os métodos que validam os critérios expostos acima. Todas as outras estruturas já estão prontas e versionadas neste repositório. Os métodos que deverão ser implementados estão no diretório */src/validadorSenhas*, arquivo *ValidadorSenhasService.ts*, e são eles:
 
@@ -80,7 +80,7 @@ Para desenvolver a avaliação, você deverá implementar apenas os métodos que
     isPrimeiroCaractereNumero(senha: string): boolean
     isUltimoCaractereLetra(senha: string): boolean
 
-##### ❔ O que deve ser implementado?
+#### ❔ O que deve ser implementado?
 
 Cada um dos métodos tem uma documentação que explica o que deve ser feito. Exemplo:
 
@@ -98,15 +98,15 @@ Cada um dos métodos tem uma documentação que explica o que deve ser feito. Ex
         throw new Error('Não implementado. Você deve implementar este método!')
     }
 
-##### ✔️ Como garantir que as implementações estão corretas?
+#### ✔️ Como garantir que as implementações estão corretas?
 
-######## Testes Automatizados
+##### Testes Automatizados
 
 Este projeto possui 146 testes automatizados prontos e implementados. Para garantir que os métodos que você implementou estão corretos, execute os testes com o comando abaixo:
 
 > npm run test
 
-######## Testes via Postman ou Insomnia
+##### Testes via Postman ou Insomnia
 
 Se você preferir, pode utilizar o [Postman](https://www.postman.com/downloads/) ou [Insomnia](https://insomnia.rest/download) para realizar as validações. Para iniciar o a API, você deve executar o seguinte comando. 
 
