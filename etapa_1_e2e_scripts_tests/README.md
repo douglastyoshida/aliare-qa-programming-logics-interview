@@ -23,6 +23,7 @@ Caso tenha algum problema que o impeça o desenvolvimento do projeto, favor me n
 ##### (CD) Cadastro
 
 * CD.1: Cadastro com e-mail inválido
+
 | Passo | Descrição do passo                  | Resultado esperado                                                               |
 |-------|-------------------------------------|----------------------------------------------------------------------------------|
 | 1     | Acesse a aplicação                  |                                                                                  |
@@ -30,6 +31,7 @@ Caso tenha algum problema que o impeça o desenvolvimento do projeto, favor me n
 | 3     | Informe o e-mail "email_errado.com" | Sistema deve apresentar a mensagem "Formato inválido" abaixo do campo de e-mail  |
 
 * CD.2: Cadastro com e-mail válido
+
 | Passo | Descrição do passo                      | Resultado esperado                         |
 |-------|-----------------------------------------|--------------------------------------------|
 | 1     | Acesse a aplicação                      |                                            |
@@ -44,12 +46,14 @@ Caso tenha algum problema que o impeça o desenvolvimento do projeto, favor me n
 ##### (LG) Login
 
 * LG.1: Login com e-mail inválido
+
 | Passo | Descrição do passo                  | Resultado esperado                                                          |
 |-------|-------------------------------------|-----------------------------------------------------------------------------|
 | 1     | Acesse a aplicação                  |                                                                             |
 | 2     | Informe o e-mail 'email_errado.com' | Sistema deve exibir a mensagem 'Formato inválido' abaixo do campo de e-mail |
 
 * LG.2: Login com e-mail inválido/senha não cadastrados
+
 | Passo | Descrição do passo                          | Resultado esperado                                                                                            |
 |-------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | 1     | Acesse a aplicação                          |                                                                                                               |
@@ -58,6 +62,7 @@ Caso tenha algum problema que o impeça o desenvolvimento do projeto, favor me n
 | 4     | Clique em 'Acessar'                         | Sistema deve apresentar a mensagem "Usuário ou senha inválido. Tente novamente ou verifique suas informações! |
 
 * LG.3: Login com usuário/senha válidos
+
 | Passo | Descrição do passo                               | Resultado esperado                                     |
 |-------|--------------------------------------------------|--------------------------------------------------------|
 | 1     | Acesse a aplicação                               |                                                        |
