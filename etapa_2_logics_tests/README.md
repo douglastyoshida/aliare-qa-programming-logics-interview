@@ -1,4 +1,4 @@
-# 💻 Avaliação Técnica - Analista de Qualidade
+# 💻 Etapa 2: Avaliação Técnica - Lógica de Programação
 #### Objetivos: 
 * Avaliar o conhecimento do candidato em projetos de software;
 * Avaliar o conhecimento do candidato em lógica de programação;
