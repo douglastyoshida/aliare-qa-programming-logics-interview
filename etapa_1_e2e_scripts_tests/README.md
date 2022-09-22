@@ -14,7 +14,7 @@
 ## Projeto da Avaliação Técnica
 #### Detalhes
 
-O projeto alvo do desenvolvimento dos testes será o BugBank. Esta aplicação foi desenvolvida pelo [Jhonatas Matos](https://github.com/jhonatasmatos) com objetivo de estudos. Essa aplicação pode ser acessada pelo link [bugbank.netlify.app](bugbank.netlify.app/). Caso este link não esteja disponível, você pode iniciar a aplicação através do seu código fonte que está disponível no [GitHub do autor](https://github.com/jhonatasmatos/bugbank).
+O projeto alvo do desenvolvimento dos testes será o BugBank. Esta aplicação foi desenvolvida pelo [Jhonatas Matos](https://github.com/jhonatasmatos) com objetivo de estudos. Essa aplicação pode ser acessada pelo link [bugbank.netlify.app](http://bugbank.netlify.app/). Caso este link não esteja disponível, você pode iniciar a aplicação através do seu código fonte que está disponível no [GitHub do autor](https://github.com/jhonatasmatos/bugbank).
 
 Caso tenha algum problema que o impeça o desenvolvimento do projeto, favor me notificar através do e-mail wemerson.marques@aliare.co.
 
