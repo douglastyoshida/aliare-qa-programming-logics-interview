@@ -80,7 +80,7 @@ Para desenvolver a avaliação, você deverá implementar apenas os métodos que
     isPrimeiroCaractereNumero(senha: string): boolean
     isUltimoCaractereLetra(senha: string): boolean
 
-#### ❔ O que deve ser implementado?
+### ❔ O que deve ser implementado?
 
 Cada um dos métodos tem uma documentação que explica o que deve ser feito. Exemplo:
 
@@ -98,15 +98,15 @@ Cada um dos métodos tem uma documentação que explica o que deve ser feito. Ex
         throw new Error('Não implementado. Você deve implementar este método!')
     }
 
-#### ✔️ Como garantir que as implementações estão corretas?
+### ✔️ Como garantir que as implementações estão corretas?
 
-##### Testes Automatizados
+#### Testes Automatizados
 
 Este projeto possui 146 testes automatizados prontos e implementados. Para garantir que os métodos que você implementou estão corretos, execute os testes com o comando abaixo:
 
 > npm run test
 
-##### Testes via Postman ou Insomnia
+#### Testes via Postman ou Insomnia
 
 Se você preferir, pode utilizar o [Postman](https://www.postman.com/downloads/) ou [Insomnia](https://insomnia.rest/download) para realizar as validações. Para iniciar o a API, você deve executar o seguinte comando. 
 
