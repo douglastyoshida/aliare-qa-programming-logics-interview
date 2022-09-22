@@ -284,43 +284,43 @@ describe('ValidadorSenhasService unit testing', () => {
         })
 
         it('Deve validar que a senha \'1\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('1')).toBe(true)
         })
 
         it('Deve validar que a senha \'2\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('2')).toBe(true)
         })
 
         it('Deve validar que a senha \'3\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('3')).toBe(true)
         })
 
         it('Deve validar que a senha \'4\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('4')).toBe(true)
         })
 
         it('Deve validar que a senha \'5\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('5')).toBe(true)
         })
 
         it('Deve validar que a senha \'6\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('6')).toBe(true)
         })
 
         it('Deve validar que a senha \'7\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('7')).toBe(true)
         })
 
         it('Deve validar que a senha \'8\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('8')).toBe(true)
         })
 
         it('Deve validar que a senha \'9\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('9')).toBe(true)
         })
 
         it('Deve validar que a senha \'0\' começa com número', () => {
-            expect(validadorSenhas.isPrimeiroCaractereNumero('12312')).toBe(true)
+            expect(validadorSenhas.isPrimeiroCaractereNumero('0')).toBe(true)
         })
     })
 

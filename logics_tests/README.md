@@ -6,7 +6,7 @@
 #### ⚠️ Observações importantes:
 * A avaliação deve ser entregue via GitHub. O link deve ser enviado por e-mail com o restante da avaliação para a(o) Analista de Gente e Gestão que está conduzindo o processo seletivo;
 * Entregue a avaliação, mesmo que não tenha conseguido implementar todos os métodos corretamente. 
-* Os testes automatizados que já estão implementados podem te ajudar a ter certeza de que os métodos implementados estão corretos. Para mais detalhes, acesse a sesão **Projeto da Avaliação Técnica -> Como garantir que as implementações estão corretas?**
+* Os testes automatizados que já estão implementados podem te ajudar a ter certeza de que os métodos implementados estão corretos. Para mais detalhes, acesse a sessão **Projeto da Avaliação Técnica -> Como garantir que as implementações estão corretas?**
 
 #### Pré requisitos:
 * Ter instalado a última versão do Node.js disponível;
