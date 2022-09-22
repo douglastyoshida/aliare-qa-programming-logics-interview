@@ -100,6 +100,16 @@ Cada um dos métodos tem uma documentação que explica o que deve ser feito. Ex
 
 ##### ✔️ Como garantir que as implementações estão corretas?
 
+######## Testes Automatizados
+
 Este projeto possui 146 testes automatizados prontos e implementados. Para garantir que os métodos que você implementou estão corretos, execute os testes com o comando abaixo:
 
 > npm run test
+
+######## Testes via Postman ou Insomnia
+
+Se você preferir, pode utilizar o [Postman](https://www.postman.com/downloads/) ou [Insomnia](https://insomnia.rest/download) para realizar as validações. Para iniciar o a API, você deve executar o seguinte comando. 
+
+> npm run start
+
+A partir deste momento a API estará disponível no endereço http://localhost:3000/validarSenha
